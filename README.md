@@ -2,7 +2,7 @@
 
 🎓 BCA Student
 
-🤖 Aspiring AI & ML Engineer
+🤖 Aspiring AI & ML Learner
 
 💻 Currently Learning
 - Python
