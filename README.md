@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Shripada Mahato 👋
 
-<!--
-**shripada-mahato/Shripada-Mahato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
 
-Here are some ideas to get you started:
+🤖 Aspiring AI & ML Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently Learning
+- Python
+- C++
+- Java
+- Machine Learning
+- Deep Learning
+- Data Structures & Algorithms
+
+🚀 Current Goals
+- Build AI/ML Projects
+- Strengthen DSA & Problem Solving
+- Improve Development Skills
+
+📂 Featured Learning Repositories
+- AI-ML-Learning-Journey
+- Cpp-Learning-Journey
+- Java-Learning-Journey
+
+📫 Connect with me on GitHub: @shripada-mahato
+
+---
+⭐ Learning one concept at a time and building real-world projects.
