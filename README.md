@@ -1,7 +1,26 @@
+# Hi, I'm Shripada 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shripada-mahato&show_icons=true&theme=tokyonight)
+🎓 BCA Student
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato&layout=compact&theme=tokyonight)
+📚 Currently learning:
+- Data Science
+- Machine Learning
+- Deep Learning
+- Python
+- Java
+- C++
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=shripada-mahato&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shripada-mahato&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato&layout=compact&theme=tokyonight)
+
+---
 
 ## Tech Stack
 
@@ -10,3 +29,23 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+## Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shripada-mahato&theme=tokyo-night)]()
+
+---
+
+## Featured Repositories
+
+- 🚀 AI-ML-Learning-Journey
+- 📊 Pandas Practice
+- ☕ Java Projects
+
+---
+
+## Connect With Me
+
+[LinkedIn](https://linkedin.com/)
