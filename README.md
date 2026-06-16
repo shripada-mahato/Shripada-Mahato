@@ -1,7 +1,7 @@
 # Hi, I'm Shripada 👋                            
 🎓 BCA Student
 📚 Currently learning:
-- Data Science
+- Data Science  - dsa
 - Machine Learning
 - Deep Learning
 - Python
