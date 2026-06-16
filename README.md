@@ -1,12 +1,14 @@
 # Hi, I'm Shripada 👋                            
 🎓 BCA Student
 📚 Currently learning:
-- Data Science  - dsa
+- Data Science 
 - Machine Learning
 - Deep Learning
 - Python
 - Java
 - C++
+- Data Structures & Algorithms
+- SQL
 ---
 ## GitHub Stats
 
