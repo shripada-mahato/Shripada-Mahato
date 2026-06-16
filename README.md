@@ -36,9 +36,6 @@
 
 ## Featured Repositories
 
-- 🚀 AI-ML-Learning-Journey
-- 📊 Pandas Practice
-- ☕ Java Projects
 
 ---
 
