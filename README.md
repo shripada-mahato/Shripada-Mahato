@@ -1,4 +1,4 @@
-# Hi, I'm Shripada 👋
+# Hi, I'm Shripada 👋                            
 
 🎓 BCA Student
 
@@ -11,7 +11,6 @@
 - C++
 
 ---
-
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=shripada-mahato&show_icons=true&theme=tokyonight)
