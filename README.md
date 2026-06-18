@@ -11,12 +11,11 @@
 - SQL
 ---
 ## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=shripada-mahato&show_icons=true&theme=transparent)
 
-![](https://github-readme-stats.vercel.app/api?username=shripada-mahato&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shripada-mahato&theme=transparent)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shripada-mahato&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato&layout=compact&theme=transparent)
 ---
 ## Connect With Me
 
