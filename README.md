@@ -11,9 +11,9 @@
 - SQL
 ---
 ## GitHub Statistics
-![](https://github-readme-stats.vercel.app/api?username=shripada-mahato&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=shripada-mahato&show_icons=true&theme=transparent&cache_seconds=1800)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shripada-mahato&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato&layout=compact&theme=transparent&cache_seconds=1800)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato&layout=compact&theme=transparent)
 ---
