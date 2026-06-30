@@ -18,5 +18,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato&layout=compact&theme=transparent)
 ---
 ## Connect With Me
-
 [LinkedIn](https://linkedin.com/)
