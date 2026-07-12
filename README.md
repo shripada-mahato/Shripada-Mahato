@@ -24,6 +24,7 @@
 ## 📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato&layout=compact&theme=transparent)
+,py
 
 # 📊 GitHub Statistics
 
