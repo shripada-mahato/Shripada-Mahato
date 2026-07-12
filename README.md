@@ -22,20 +22,7 @@
 
 ## 🛠️ Technologies & Tools
 
-### Programming Languages
-Python • Java • C • C++ • SQL
-
-### Data Science & ML
-NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • TensorFlow • OpenCV • MediaPipe
-
-### Development Tools
-Git • GitHub • VS Code • Jupyter Notebook
-
-### Databases
-MySQL
-
-### Operating Systems
-Linux • Ubuntu • Windows
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato&layout=compact&theme=transparent)
 ---
 
 # 📊 GitHub Statistics
