@@ -1,6 +1,6 @@
 # Hi, I'm Shripada Mahato 👋
 
-### 🎓 BCA (Hons.) Student | Aspiring Data Scientist & Machine Learning Engineer
+### 🎓 BCA (Hons.) Student | Aspiring Data Scientist & Machine Learning
 
 I'm a BCA (Hons.) student at **MAKAUT University** passionate about **Data Science, Machine Learning, Artificial Intelligence, and Software Development**.
 
