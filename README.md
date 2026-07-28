@@ -73,16 +73,6 @@ https://github.com/shripada-mahato?tab=repositories
 
 ---
 
-# 🎯 Goals for 2026
-
-- ✅ Build impactful AI/ML projects
-- ✅ Strengthen DSA & Problem Solving
-- ✅ Contribute to Open Source
-- ✅ Master Machine Learning & Deep Learning
-- ✅ Secure a Data Science / ML Internship
-
----
-
 # 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
