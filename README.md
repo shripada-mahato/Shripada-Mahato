@@ -51,11 +51,18 @@ https://github.com/shripada-mahato/Osteoporosis-Prediction-Using-Machine-Learnin
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shripada-mahato&show_icons=true&theme=transparent&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=shripada-mahato&show_icons=true&theme=transparent)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shripada-mahato&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato&layout=compact&theme=transparent)
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shripada-mahato&theme=github-compact&hide_border=true" />
+</p>
 
 ---
 
