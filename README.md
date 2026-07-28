@@ -1,58 +1,75 @@
 # Hi, I'm Shripada Mahato 👋
 
-🎓 BCA (Hons.) Student | MAKAUT University
+### BCA (Hons.) Student | Aspiring Data Scientist & Machine Learning Engineer
 
-💻 Passionate about Data Science, Machine Learning, AI, and Software Development.
+I'm a BCA (Hons.) student at MAKAUT with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Software Development**.
 
----
-
-## 🚀 Currently Learning
-
-* Python
-* Java
-* C++
-* Data Structures & Algorithms
-* SQL
-* Data Science
-* Machine Learning
-* Deep Learning
-* Git & GitHub
+Currently building practical projects, strengthening problem-solving skills, and learning technologies used in real-world AI applications.
 
 ---
 
-# 🚀 Live Developer Dashboard
+## 🚀 Tech Stack
 
-## 📊 GitHub Statistics
+### Languages
+- Python
+- Java
+- C++
+- SQL
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shripada-mahato\&show_icons=true\&theme=transparent\&include_all_commits=true\&count_private=true)
+### Data Science & Machine Learning
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
 
-## 🔥 Contribution Streak
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shripada-mahato\&theme=transparent)
+---
 
-## 💻 Most Used Languages
+## 📚 Currently Learning
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato\&layout=compact\&theme=transparent)
+- Data Structures & Algorithms
+- Machine Learning
+- Deep Learning
+- Model Evaluation & Feature Engineering
 
-## 📈 Contribution Activity Graph
+---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shripada-mahato\&theme=github-compact)
+## 🚀 Featured Projects
 
-## 🏆 GitHub Achievements
+### 🦴 Osteoporosis Prediction using Machine Learning
+Machine learning project for osteoporosis prediction using multiple classification algorithms.
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=shripada-mahato\&theme=flat\&margin-w=15)
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
-## 👀 Profile Visitors
+➡️ Repository:
+https://github.com/shripada-mahato/Osteoporosis-Prediction-Using-Machine-Learning
 
-![](https://komarev.com/ghpvc/?username=shripada-mahato\&label=Profile%20Views\&color=0e75b6\&style=flat)
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shripada-mahato&show_icons=true&theme=transparent&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato&layout=compact&theme=transparent)
+
+---
+
+## 🔥 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shripada-mahato&theme=github-compact)
 
 ---
 
 ## 🌐 Connect With Me
 
-* GitHub: https://github.com/shripada-mahato
-* LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- GitHub: https://github.com/shripada-mahato
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my GitHub profile!
