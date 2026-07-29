@@ -2,9 +2,9 @@
 
 ### 🎓 BCA (Hons.) Student • Data Science • Machine Learning • Artificial Intelligence
 
-I'm a BCA (Hons.) student at **MAKAUT University** passionate about **Data Science, Machine Learning, Artificial Intelligence, and Software Development**.
+I'm a **BCA (Hons.) student** at **MAKAUT University** passionate about **Data Science, Machine Learning, Artificial Intelligence, and Software Development**.
 
-Currently learning and building projects in Machine Learning, Data Science, Python, Java, SQL, Git, and Software Development.
+I'm focused on building practical Machine Learning projects, strengthening Data Structures & Algorithms, and developing real-world software engineering skills.
 
 ---
 
@@ -24,7 +24,7 @@ Currently learning and building projects in Machine Learning, Data Science, Pyth
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
 ---
 
@@ -41,10 +41,18 @@ Currently learning and building projects in Machine Learning, Data Science, Pyth
 
 | Project | Description |
 |---------|-------------|
-| 🦴 Osteoporosis Prediction | Machine Learning classification project. |
-| 📈 Student Performance Analysis | Data analysis using Pandas & Matplotlib. |
-| 🏠 House Price Prediction | Linear Regression using Scikit-learn. |
-| 🧩 Python Mini Projects | Python beginner & intermediate projects. |
+| 🦴 Osteoporosis Prediction | Machine Learning classification project using multiple algorithms. |
+| 📈 Student Performance Analysis | Data analysis and visualization using Pandas, NumPy & Matplotlib. |
+| 🏠 House Price Prediction | Linear Regression project using Scikit-Learn. |
+| 🧩 Python Mini Projects | Collection of beginner and intermediate Python projects. |
+
+---
+
+# 📂 Explore My Projects
+
+### 💻 GitHub
+
+https://github.com/shripada-mahato
 
 ---
 
@@ -52,51 +60,47 @@ Currently learning and building projects in Machine Learning, Data Science, Pyth
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=shripada-mahato&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shripada-mahato&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato&layout=compact&theme=default&hide_border=true&langs_count=8"/>
 
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://streak-stats.demolab.com?user=shripada-mahato&theme=github-dark-blue&hide_border=true"/>
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://streak-stats.demolab.com?user=shripada-mahato&theme=default&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=shripada-mahato&theme=default&hide_border=true"/>
 
-</picture>
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shripada-mahato&theme=github-light&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 GitHub Summary
 
 <p align="center">
 
-<picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shripada-mahato&theme=default"/>
 
-<source media="(prefers-color-scheme: dark)"
-srcset="https://github-readme-activity-graph.vercel.app/graph?username=shripada-mahato&theme=github-dark&hide_border=true"/>
+</p>
 
-<source media="(prefers-color-scheme: light)"
-srcset="https://github-readme-activity-graph.vercel.app/graph?username=shripada-mahato&theme=github-light&hide_border=true"/>
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shripada-mahato&theme=github-light&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shripada-mahato&theme=default"/>
 
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shripada-mahato&theme=default"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shripada-mahato&theme=default"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shripada-mahato&theme=default&utcOffset=5.5"/>
 
 </p>
 
@@ -105,19 +109,27 @@ srcset="https://github-readme-activity-graph.vercel.app/graph?username=shripada-
 # 📚 Currently Learning
 
 - Data Structures & Algorithms
+- NumPy
+- Pandas
 - Machine Learning
 - Deep Learning
 - Feature Engineering
 - Model Evaluation
 - Git & GitHub
 - SQL
+- Java
 
 ---
 
 # 🌐 Connect With Me
 
-- 💻 GitHub: https://github.com/shripada-mahato
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+💼 LinkedIn
+
+https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+
+💻 GitHub
+
+https://github.com/shripada-mahato
 
 ---
 
@@ -129,4 +141,4 @@ srcset="https://github-readme-activity-graph.vercel.app/graph?username=shripada-
 
 ---
 
-⭐ If you like my work, consider giving a ⭐ to my repositories!
+⭐ **If you like my work, consider giving a ⭐ to my repositories!**
