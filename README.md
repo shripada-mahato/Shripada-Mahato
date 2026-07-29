@@ -2,9 +2,9 @@
 
 ### 🎓 BCA (Hons.) Student • Data Science • Machine Learning • Artificial Intelligence
 
-I'm a **BCA (Hons.) student** at **MAKAUT University** passionate about **Data Science, Machine Learning, Artificial Intelligence, and Software Development**.
+I'm a BCA (Hons.) student at **MAKAUT University** passionate about **Data Science, Machine Learning, Artificial Intelligence, and Software Development**.
 
-I'm focused on building end-to-end Machine Learning projects, strengthening Data Structures & Algorithms, and developing practical skills in Data Science, AI, and Software Engineering.
+Currently learning and building projects in Machine Learning, Data Science, Python, Java, SQL, Git, and Software Development.
 
 ---
 
@@ -40,19 +40,11 @@ I'm focused on building end-to-end Machine Learning projects, strengthening Data
 # 🚀 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 🦴 Osteoporosis Prediction | Machine Learning project for osteoporosis prediction using classification algorithms. |
-| 📈 Student Performance Analysis | Data analysis and visualization using Pandas, NumPy & Matplotlib. |
-| 🏠 House Price Prediction | Linear Regression model using Scikit-learn. |
-| 🧩 Python Mini Projects | Collection of beginner and intermediate Python projects. |
-
----
-
-## 📂 Explore My Projects
-
-👉 **Repositories**
-
-https://github.com/shripada-mahato?tab=repositories
+|---------|-------------|
+| 🦴 Osteoporosis Prediction | Machine Learning classification project. |
+| 📈 Student Performance Analysis | Data analysis using Pandas & Matplotlib. |
+| 🏠 House Price Prediction | Linear Regression using Scikit-learn. |
+| 🧩 Python Mini Projects | Python beginner & intermediate projects. |
 
 ---
 
@@ -60,47 +52,51 @@ https://github.com/shripada-mahato?tab=repositories
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shripada-mahato&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=shripada-mahato&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato&layout=compact&hide_border=true&langs_count=8"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shripada-mahato&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shripada-mahato&theme=github-compact&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shripada-mahato&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Summary
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shripada-mahato&theme=github"/>
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://streak-stats.demolab.com?user=shripada-mahato&theme=github-dark-blue&hide_border=true"/>
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://streak-stats.demolab.com?user=shripada-mahato&theme=default&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=shripada-mahato&theme=default&hide_border=true"/>
+
+</picture>
 
 </p>
 
-<p align="center">
+---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shripada-mahato&theme=github"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shripada-mahato&theme=github"/>
-
-</p>
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shripada-mahato&theme=github"/>
+<picture>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shripada-mahato&theme=github&utcOffset=5.5"/>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://github-readme-activity-graph.vercel.app/graph?username=shripada-mahato&theme=github-dark&hide_border=true"/>
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://github-readme-activity-graph.vercel.app/graph?username=shripada-mahato&theme=github-light&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shripada-mahato&theme=github-light&hide_border=true"/>
+
+</picture>
 
 </p>
 
@@ -109,27 +105,19 @@ https://github.com/shripada-mahato?tab=repositories
 # 📚 Currently Learning
 
 - Data Structures & Algorithms
-- NumPy
-- Pandas
 - Machine Learning
 - Deep Learning
 - Feature Engineering
 - Model Evaluation
 - Git & GitHub
 - SQL
-- Problem Solving
 
 ---
 
 # 🌐 Connect With Me
 
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
-
-💻 **GitHub**
-
-https://github.com/shripada-mahato
+- 💻 GitHub: https://github.com/shripada-mahato
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
 
 ---
 
@@ -141,4 +129,4 @@ https://github.com/shripada-mahato
 
 ---
 
-⭐ **If you like my work, consider giving a ⭐ to my repositories!**
+⭐ If you like my work, consider giving a ⭐ to my repositories!
