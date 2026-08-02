@@ -118,6 +118,7 @@ https://github.com/shripada-mahato
 - Git & GitHub
 - SQL
 - Java
+- Data Science
 
 ---
 
